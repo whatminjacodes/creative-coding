@@ -1,3 +1,9 @@
+# Don't add to git folder
+/satellites/dont-add-to-git/*
+
+# Visual Studio temp files
+*.vs
+
 # Prerequisites
 *.d
 
