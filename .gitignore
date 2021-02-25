@@ -3,9 +3,6 @@
 
 # Visual Studio temp files
 *.vs
-*.vcxproj
-*.vcxproj.user
-*.vcxproj.filters
 
 # Prerequisites
 *.d
