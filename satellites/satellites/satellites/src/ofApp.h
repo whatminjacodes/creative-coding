@@ -2,6 +2,10 @@
 
 #include "ofMain.h"
 
+struct Test {
+	float x, y, z;
+};
+
 class ofApp : public ofBaseApp{
 
 	public:
@@ -21,4 +25,7 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 		
+		void loadSettings();
+		void saveSettings();
+		void initializeTestiData(vector<Test> testidata, int lineCount);
 };
