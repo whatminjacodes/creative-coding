@@ -9,7 +9,7 @@ void setup() {
 
   // Size manually set the exact same as the image that contains particle system starting positions
   size(1836, 2470);
-  background(230, 51, 140, 0);
+  background(255);
 
   // Load an image that contains particle system starting points
   img = loadImage("flower-sketch-points.jpg");
@@ -33,18 +33,12 @@ void setup() {
       }
     }
   }
-  
+
   println(pointLocations.size());
 
-  for (int i = 0; i < pointLocations.size(); i++) {
-
-    // Convert list of positions into x, y 
-    int x = pointLocations.get(i) % img.width;
-    int y = pointLocations.get(i) / img.width;
-    
-    // Draw an ellipse to the point
-    ellipse(x, y, 20, 20);
-  }
+  // Line adjustments
+  stroke(40);
+  strokeWeight(10); // 10
 }
 
 /*
@@ -52,5 +46,15 @@ void setup() {
  *    - Generate animation to start from predefined locations
  */
 void draw() {
-  
+  // Create flower petals on saved point locations
+  for (int i = 0; i < pointLocations.size(); i++) {
+
+    // Convert list of positions into x, y
+    int x = pointLocations.get(i) % img.width;
+    int y = pointLocations.get(i) / img.width;
+
+    // Draw an ellipse to the point
+    FlowerPetal fp1 = new FlowerPetal(x, y, 50, 50);
+    fp1.update();
+  }
 }
