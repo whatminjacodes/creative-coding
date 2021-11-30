@@ -5,6 +5,12 @@ Credit the original artist if you use the code!
 #### How to follow the tutorial
 Open the Processing project and follow the instructions in the comments of the code. Uncomment/comment the lines of code and run the software in between to see how the project changes.
 
+#### Topics
+- how setting background color in draw() works
+- creating another layer
+- setting a color randomly
+- using random when drawing objects (size & position)
+
 #### Some screenshots
 <img src="01-first-part-first-line.png" width="250"/>
 <em>First progress picture after uncommenting the first line of code in the first part.</em>
