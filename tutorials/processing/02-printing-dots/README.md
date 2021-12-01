@@ -1,4 +1,4 @@
-## 02 Printing dots
+## 02 - Printing Dots
 Tutorial takes inspiration from [FunProgramming.org](https://funprogramming.org/27-Animating-while-rotating.html).
 Credit the original artist if you use the code!
 
