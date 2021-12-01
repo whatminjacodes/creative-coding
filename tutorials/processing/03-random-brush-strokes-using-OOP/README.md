@@ -1,4 +1,4 @@
-## 03 Random Brush Strokes using Object-Oriented Programming
+## 03 - Random Brush Strokes using Object-Oriented Programming
 Tutorial takes inspiration from [thedotisblack Youtube](https://www.youtube.com/watch?v=9ZL9qSag7CY).
 Credit the original artist if you use the code!
 
