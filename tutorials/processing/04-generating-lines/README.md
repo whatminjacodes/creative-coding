@@ -12,7 +12,7 @@ Open the Processing project and follow the instructions in the comments of the c
 
 #### Some screenshots
 <img src="01-second-part-1st-line.png" width="250"/>
-<em>First progress picture after uncommenting the third line of code in the first part.</em>
+<em>First progress picture after uncommenting the first line of code in the second part.</em>
 <br><br>
 
 <img src="02-second-part-2nd-line.png" width="250"/>
@@ -20,11 +20,12 @@ Open the Processing project and follow the instructions in the comments of the c
 <br><br>
 
 <img src="03-fifth-part-2nd-line.png" width="250"/>
-<em>Third progress picture after uncommenting the fourth part.</em>
+<em>Third progress picture after uncommenting the second line of code in the fifth part.</em>
 <br><br>
 
 <img src="04-fifth-part-3rd-line.png" width="250"/>
-<em>Extra part: test different colors.</em>
+<em>Fourth progress picture after uncommenting the third line of code in the fifth part.</em>
+<br><br>
 
 <img src="05-sixth-part-1st-line.png" width="250"/>
-<em>Extra part: test different colors.</em>
+<em>Fifth progress picture after uncommenting the first line of code in the sixth part.</em>
