@@ -1,4 +1,4 @@
-## 01 Animated circle of lines using sine
+## 01 - Animated Circle of Lines using Sine
 Tutorial takes inspiration from [thedotisblack Youtube tutorial](https://www.youtube.com/watch?v=ehT7d9JPulQ).
 Credit the original artist if you use the code!
 
