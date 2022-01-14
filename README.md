@@ -1,5 +1,5 @@
 # creative-coding
-Repository for creative coding/generative art projects
+Repository for creative coding/generative art projects.
 
 ## Own projects
 This folder has my own creative code projects.
